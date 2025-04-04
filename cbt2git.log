@@ -1,0 +1,4 @@
+2025-04-04 08:38:30.500259 - Received CBT.V508.FILE370.PDS from FILE370.XMI 
+2025-04-04 08:38:30.500881 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE370.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:38:30.501031 - Found @FILE370.txt (text/plain) in CBT.V508.FILE370.PDS, moved to PDS/@FILE370
+2025-04-04 08:38:30.501171 - Found ESA1.txt (text/plain) in CBT.V508.FILE370.PDS, moved to PDS/ESA1
